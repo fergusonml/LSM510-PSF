@@ -1,0 +1,96 @@
+[?1034h[[Variables]]
+     amp:        31.073220 +/- 0.599276 (1.93%) initial =  35.000000
+     offset:     20.719358 +/- 0.425463 (2.05%) initial =  20.000000
+     shift:      0.435099 +/- 0.002413 (0.55%) initial =  0.500000
+     w0:         0.251562 +/- 0.006815 (2.71%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(offset, w0)                = -0.706 
+    C(amp, offset)               = -0.508 
+[?1034h[[Variables]]
+     amp:        104.617528 +/- 12.909328 (12.34%) initial =  35.000000
+     offset:     21.354756 +/- 7.866067 (36.84%) initial =  20.000000
+     shift:      0.794003 +/- 0.032577 (4.10%) initial =  0.500000
+     w0:         0.507180 +/- 0.084414 (16.64%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(offset, w0)                = -0.636 
+    C(amp, offset)               = -0.433 
+    C(amp, w0)                   = -0.126 
+[?1034h[[Variables]]
+     amp:        115.327167 +/- 1.323302 (1.15%) initial =  35.000000
+     offset:     17.447582 +/- 0.465363 (2.67%) initial =  20.000000
+     shift:      0.833237 +/- 0.001503 (0.18%) initial =  1.000000
+     w0:         0.234200 +/- 0.003289 (1.40%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(amp, w0)                   = -0.410 
+    C(offset, w0)                = -0.406 
+    C(amp, offset)               = -0.249 
+[[Variables]]
+     amp:        115.693305 +/- 2.523120 (2.18%) initial =  35.000000
+     offset:     17.775556 +/- 0.944900 (5.32%) initial =  20.000000
+     shift:      0.705217 +/- 0.002717 (0.39%) initial =  1.000000
+     w0:         0.223741 +/- 0.006016 (2.69%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(offset, w0)                = -0.430 
+    C(amp, w0)                   = -0.389 
+    C(amp, offset)               = -0.265 
+[[Variables]]
+     amp:        123.751527 +/- 5.793155 (4.68%) initial =  35.000000
+     offset:     17.170303 +/- 3.702922 (21.57%) initial =  20.000000
+     shift:      1.066692 +/- 0.015228 (1.43%) initial =  1.000000
+     w0:         0.632579 +/- 0.040438 (6.39%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(offset, w0)                = -0.658 
+    C(amp, offset)               = -0.455 
+[[Variables]]
+     amp:        181.246278 +/- 2.197644 (1.21%) initial =  35.000000
+     offset:     17.406589 +/- 0.730504 (4.20%) initial =  20.000000
+     shift:      1.395773 +/- 0.002432 (0.17%) initial =  1.000000
+     w0:         0.357371 +/- 0.005273 (1.48%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(amp, w0)                   = -0.427 
+    C(offset, w0)                = -0.386 
+    C(amp, offset)               = -0.235 
+[[Variables]]
+     amp:        184.840312 +/- 1.959700 (1.06%) initial =  35.000000
+     offset:     17.074062 +/- 0.626375 (3.67%) initial =  20.000000
+     shift:      1.501717 +/- 0.002264 (0.15%) initial =  1.000000
+     w0:         0.379654 +/- 0.004880 (1.29%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(amp, w0)                   = -0.438 
+    C(offset, w0)                = -0.373 
+    C(amp, offset)               = -0.226 
+[[Variables]]
+     amp:        170.370059 +/- 9.341169 (5.48%) initial =  35.000000
+     offset:     16.372450 +/- 6.958492 (42.50%) initial =  20.000000
+     shift:      1.192632 +/- 0.018967 (1.59%) initial =  1.000000
+     w0:         0.709606 +/- 0.055301 (7.79%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(offset, w0)                = -0.727 
+    C(amp, offset)               = -0.536 
+[[Variables]]
+     amp:        205.278232 +/- 2.964974 (1.44%) initial =  35.000000
+     offset:     19.697933 +/- 0.812103 (4.12%) initial =  20.000000
+     shift:      1.251674 +/- 0.001968 (0.16%) initial =  1.000000
+     w0:         0.240564 +/- 0.004160 (1.73%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(amp, w0)                   = -0.473 
+    C(offset, w0)                = -0.324 
+    C(amp, offset)               = -0.194 
+[[Variables]]
+     amp:        214.158190 +/- 1.698129 (0.79%) initial =  35.000000
+     offset:     19.541638 +/- 0.448197 (2.29%) initial =  20.000000
+     shift:      1.457659 +/- 0.001229 (0.08%) initial =  1.000000
+     w0:         0.273301 +/- 0.002588 (0.95%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(amp, w0)                   = -0.481 
+    C(offset, w0)                = -0.313 
+    C(amp, offset)               = -0.187 
+[[Variables]]
+     amp:        58.423725 +/- 1.598752 (2.74%) initial =  35.000000
+     offset:     15.071612 +/- 0.630648 (4.18%) initial =  20.000000
+     shift:      0.855584 +/- 0.005911 (0.69%) initial =  1.000000
+     w0:         0.389605 +/- 0.013234 (3.40%) initial =  0.250000
+[[Correlations]] (unreported correlations are <  0.100)
+    C(offset, w0)                = -0.449 
+    C(amp, w0)                   = -0.370 
+    C(amp, offset)               = -0.279 

@@ -1,0 +1,1 @@
+﻿from openpyxl import load_workbookdef read_xlsx(): Data_Only=True wb=load_workbook('200nmbeadlsmpsfvalues.xlsx',data_only=True) print wb.get_sheet_names() ws=wb['Sheet1'] a=ws['A1':'A197'] for col_idx in xrange(1, 2):  col = get_column_letter(col_idx)  for row in xrange(1, 200):   print ws.cell(ΓÇÖ%s%sΓÇÖ%(col, row)).value #print a return a;
