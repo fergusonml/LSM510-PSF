@@ -10,17 +10,18 @@ filename=[\
 #'200nmbead100x_1a.xlsx',\
 #'200nmbead100x_1b.xlsx',\
 #'200nmbead100x_1c.xlsx',\
-'200nmbead40x_1a.xlsx',\
-'200nmbead100x_2a.xlsx',\
-'200nmbead100x_2b.xlsx',\
-'200nmbead100x_2c.xlsx',\
-'200nmbead100x_3.xlsx',\
+#'200nmbead40x_1a.xlsx',\
+#'200nmbead100x_2a.xlsx',\
+#'200nmbead100x_2b.xlsx',\
+#'200nmbead100x_2c.xlsx',\
+#'200nmbead100x_3.xlsx',\
 #'200nmbead100x_4.xlsx'\
+'200nmbeads_T_2001.xlsx'\
 ]
 sheet=[\
 'Sheet1',\
-'Sheet2',\
-'Sheet3'\
+'Sheet2'\
+#'Sheet3'\
 ]
 
 nrows=len(filename)
